@@ -1,0 +1,23 @@
+{
+  "name": "tempInfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "http://127.0.0.1/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tempInfo"
+  },
+  "keywords": [
+    "temp",
+    "info"
+  ],
+  "author": "Stefan Kroneis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-schedule": "^1.2.0"
+  }
+}
