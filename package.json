@@ -1,14 +1,14 @@
 {
   "name": "tempInfo",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple temperature api / website for htu21d",
   "main": "app.js",
   "scripts": {
     "test": "http://127.0.0.1/test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tempInfo"
+    "url": "https://github.com/skroneis/tempInfo"
   },
   "keywords": [
     "temp",
